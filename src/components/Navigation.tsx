@@ -27,7 +27,7 @@ const Navigation = () => {
               onClick={() => scrollToSection("home")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Pealeht
+              Koduleht
             </button>
             <button
               onClick={() => scrollToSection("about")}
