@@ -15,8 +15,8 @@ const About = () => {
     },
     {
       icon: Award,
-      title: "Lisada midagi",
-      description: "lisada midagi"
+      title: "Registreeritud",
+      description: "Oleme ametlikult registreeritud ettevõte"
     },
     {
       icon: Wrench,
