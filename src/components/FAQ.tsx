@@ -16,12 +16,12 @@ const FAQ = () => {
       answer: "vastus2"
     },
     {
-      question: "Kas teil on litsents ja kindlustus?",
-      answer: "vastus3"
+      question: "Kas Te olete registreetud?",
+      answer: "Jah. ERK EHITUS OÜ on ametlikult registreeritud ettevõte"
     },
     {
       question: "Kas Te pakute tasuta hinnapkkumisi?",
-      answer: "vastus4"
+      answer: "Jah. Me pakume tasuta hinnapakkumisi, võtke lihtsalt ühendust ning anname Teile paari päeva jooksul vastuse"
     },
     {
       question: "Milline on Teie maksegraafik?",
